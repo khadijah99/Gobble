@@ -1,0 +1,4 @@
+#Fri Jan 17 00:37:53 PKT 2020
+base.0=E\:\\Flutter Projects\\Restaurant\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

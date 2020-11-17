@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abdul/Desktop/restaurantchooser/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/home/abdul/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/f860517417184c27ca65b3cbb57f9a3c/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

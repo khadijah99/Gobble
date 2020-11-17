@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Flutter Projects\\Restaurant\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Khadija Khan\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\b54637b5f81797fb7bbea0cb3dbe9552\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
